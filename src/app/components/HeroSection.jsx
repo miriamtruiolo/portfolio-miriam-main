@@ -52,7 +52,7 @@ const HeroSection = () => {
         <div className="col-span-4 place-self-center mt-4 lg:mt-0" >
           <div
             className="rounded-full bg-cover bg-center w-[200px] h-[200px] lg:w-[300px] lg:h-[300px]"
-            style={{ backgroundImage: "url('/images/MiriamTruiolo.jpeg')" }}
+            style={{ backgroundImage: "url('/images/me.png')" }}
           >
           </div>
         </div>
