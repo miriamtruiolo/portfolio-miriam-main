@@ -36,7 +36,7 @@ const EmailSection = () => {
           {" "}
           Sono aperta a nuove opportunità di collaborazione! 
           <br />
-          Se hai un progetto, una domanda o sei alla ricerca di un Digital Marketing Specialist, non esitare a contattarmi. 
+          Se hai un progetto, una domanda o sei alla ricerca di un Junior Front End Developer, non esitare a contattarmi. 
           <br />
           Farò del mio meglio per risponderti al più presto!
         </p>

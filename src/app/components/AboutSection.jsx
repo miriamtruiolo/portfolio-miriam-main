@@ -12,28 +12,20 @@ const TAB_DATA = [
         <ul className="list-disc pl-2">
           {showAllSkills ? (
             <>
-              <li>Copywriting</li>
-              <li>SEO</li>
-              <li>Facebook Ads</li>
-              <li>Google Ads</li>
-              <li>Email Marketing</li>
-              <li>Social Media</li>
-              <li>Grafica per Social Media</li>
-              <li>Video Editing</li>
-              <li>Funnel Marketing</li>
-              <li>Analisi Dati</li>
-              <li>GA4/GTM</li>
-              <li>Jotform</li>
-              <li>ClickUp</li>
-              <li>Excel</li>
-              <li>Wordpress/Wix/Shopify</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>TypeScript</li>
+              <li>React</li>
+              <li>Tailwind</li>
+              <li>Bootstrap</li>
             </>
           ) : (
             <>
-              <li>Copywriting</li>
-              <li>SEO</li>
-              <li>Facebook Ads</li>
-              <li>Google Ads</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>React</li>
             </>
           )}
         </ul>
@@ -51,6 +43,7 @@ const TAB_DATA = [
     id: "certifications",
     content: () => (
       <ul className="list-disc pl-2">
+        <li>Master in Front End Development: start2impact University</li>
         <li>Master in Digital Marketing: start2impact University</li>
         <li>Diploma Superiore: Liceo Socio-psicopedagogico</li>
       </ul>
@@ -61,9 +54,9 @@ const TAB_DATA = [
     id: "languages",
     content: () => (
       <ul className="list-disc pl-2">
-        <li>Italiano</li>
-        <li>Inglese</li>
-        <li>Spagnolo</li>
+        <li>Italiano: nativa</li>
+        <li>Inglese: B2</li>
+        <li>Spagnolo: B2</li>
       </ul>
     ),
   },
@@ -89,7 +82,7 @@ function AboutSection() {
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
         <Image
           className="hidden md:block"
-          src="/images/about-image.png"
+          src="/images/about.png"
           alt="About"
           width={500}
           height={500}

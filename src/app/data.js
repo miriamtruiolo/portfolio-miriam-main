@@ -1,6 +1,9 @@
 export const timelineData = [
-  { year: "2024", title: "Digital Marketing Specialist", description: "Customer interaction company RimborsiAmo  | Freelance", align: "left" },
-  { year: "2024", title: "Copywriter | Blog", description: "Consulente Google Ads Luigi Virginio  | Freelance", align: "right" },
-  { year: "2024", title: "Copywriter | Script video", description: "Agenzia di Influencer Marketing Flatmates | Freelance", align: "left" },
-  { year: "2022-presente", title: "Copywriter | Blog", description: "Business-Investimenti Invest Hero | Freelance", align: "right" },
+  { year: "2022-presente", title: "Ghostwriter | Blog", description: "Business-Investimenti Invest Hero | Freelance. Scrivo articoli in ottica SEO su tematiche come: finanza, crescita personale, imprenditoria e investimenti per i fondatori Stefano e Alessandro.", align: "left" },
+  { year: "2024-presente", title: "Copywriter | Blog", description: "Consulente Google Ads Luigi Virginio  | Freelance | Mi occupo di scrivere articoli in ottica SEO relativi al Marketing su Google e ai vari strumenti a disposizione.", align: "right" },
+  { year: "2024", title: "Copywriter | Script video", description: "Agenzia di Influencer Marketing Flatmates | Freelance. Ho realizzato alcuni script per video YouTube sul canale Investiamo.", align: "left" },
+  { year: "2024", title: "Digital Marketing Specialist", description: "Customer interaction company RimborsiAmo  | Freelance. Mi sono occupata della gestione di ClickUp, creazione di questionari con Jotform, email marketing e campagne su Google Ads e Facebook Ads, oltre alla gestione e all'ottimizzazione del sito web e del blog anche in ottica SEO.   ", align: "right" },
+  { year: "2020-2023", title: "Digital Marketing Specialist", description: "PMI | Freelance. A febbraio 2020 ho iniziato ad acqsuisire clienti per la realizzazione di E-commerce (Shopify), la creazione di landing page e funnel (ClickFunnels), ma anche per la gestione ADS lead generation, automatizzando i processi.", align: "left" },
+  { year: "2019-2023", title: "Web Design | Wordpress", description: "PMI | Freelance. Ho iniziato la mia carriera nel settore digital progettando siti web e realizzandoli con Wordpress ed Elementor per piccole e medie imprese. Questa è stata sicuramente l'esperienza che ha cambiato la mia visione del lavoro.", align: "right" },
+  { year: "2011-2019", title: "Ristorazione | Accoglienza clienti", description: "Prima del 2018/19 ho lavorato nel settore della ristorazione svolgendo diverse mansioni per circa 8 anni. Ciò, fino a quando ho scelto di cambiare vita!", align: "left" },
 ];

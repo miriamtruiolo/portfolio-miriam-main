@@ -39,7 +39,7 @@ const HeroSection = () => {
               Contattami
             </Link>
             <Link
-              href="../../../public/documents/cvMultilingue.pdf"
+              href="/documents/cvMultilingue.pdf"
               download
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
@@ -52,7 +52,7 @@ const HeroSection = () => {
         <div className="col-span-4 place-self-center mt-4 lg:mt-0" >
           <div
             className="rounded-full bg-cover bg-center w-[200px] h-[200px] lg:w-[300px] lg:h-[300px]"
-            style={{ backgroundImage: "url('/images/me.png')" }}
+            style={{ backgroundImage: "url('/images/me-red.png')" }}
           >
           </div>
         </div>
